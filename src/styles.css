@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h3 {
+text-decoration: underline 2px  #3b322c;
+}
+body {
+ border: 2px groove #3b322c;
+ margin: 0.3em;
+ padding: .4em;
+}
+button {
+width: 20%;
+background: #3b322c;
+color: #ffffff
+}
+ .input-box{
+    
+    opacity: 0.7;
+    fontSize: 18px;
+    width: 100%;
+    fontWeight: bold
+  }
+   .input-box2 {
+    opacity: 0.7;
+    fontSize: 16px;
+    width: 100%;
+    overflowWrap: break-word;
+    wordWrap: break-word
+    }
